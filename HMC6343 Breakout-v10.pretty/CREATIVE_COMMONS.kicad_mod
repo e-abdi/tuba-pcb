@@ -1,0 +1,92 @@
+(footprint "CREATIVE_COMMONS"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "2d456f30-ed07-4843-b98e-9f9983fe6dfe")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "ea33d25f-369a-4112-b67a-14a0c49985f8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f02654de-0178-4a36-b409-9feee6db04f9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23ae33b2-1f15-4673-83fa-693d143d41d6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "Designed by:"
+		(at 11.43 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "23424e51-9392-4ad8-bae9-ef021c18dd9e")
+		(effects
+			(font
+				(size 1.63576 1.63576)
+				(thickness 0.14224)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user " https://creativecommons.org/licenses/by-sa/4.0/"
+		(at 0 -2.54 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "287ed55c-8df4-4902-a000-73d2320ea4bc")
+		(effects
+			(font
+				(size 1.63576 1.63576)
+				(thickness 0.14224)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Released under the Creative Commons Attribution Share-Alike 4.0 License"
+		(at -20.32 -5.08 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f267b56d-9628-4fc9-9659-d909fee801ca")
+		(effects
+			(font
+				(size 1.63576 1.63576)
+				(thickness 0.14224)
+			)
+			(justify left bottom)
+		)
+	)
+	(embedded_fonts no)
+)
